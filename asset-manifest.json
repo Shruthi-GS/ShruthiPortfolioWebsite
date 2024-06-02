@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ShruthiPortfolioWebsite/static/css/main.e6c13ad2.css",
+    "main.js": "/ShruthiPortfolioWebsite/static/js/main.7bb8ade2.js",
+    "static/js/453.8ab44547.chunk.js": "/ShruthiPortfolioWebsite/static/js/453.8ab44547.chunk.js",
+    "static/media/IMG-20240118-WA0000.jpg": "/ShruthiPortfolioWebsite/static/media/IMG-20240118-WA0000.2d70a4f1b0dc39e70861.jpg",
+    "index.html": "/ShruthiPortfolioWebsite/index.html",
+    "main.e6c13ad2.css.map": "/ShruthiPortfolioWebsite/static/css/main.e6c13ad2.css.map",
+    "main.7bb8ade2.js.map": "/ShruthiPortfolioWebsite/static/js/main.7bb8ade2.js.map",
+    "453.8ab44547.chunk.js.map": "/ShruthiPortfolioWebsite/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7bb8ade2.js"
+  ]
+}
