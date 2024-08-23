@@ -8,6 +8,9 @@ const Internship = () => {
       <ExperienceItem>
         <h3>Creintors Automation Solutions Pvt Ltd., Belagavi (Currently Pursuing)</h3>
         <p>Working on “Using Data Analytics to optimize profit and sales metrics for a dairy union.”</p>
+        <p>Using Python to analyze and visualize the sales of dealers, across
+        different routes and of various dairy products.</p>
+
       </ExperienceItem>
     </Section>
   );

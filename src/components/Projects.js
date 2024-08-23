@@ -6,22 +6,25 @@ const Projects = () => {
     <Section id="projects">
       <h2>Projects</h2>
       <Project>
-        <h3>Heart Disease Prediction using Machine Learning (In progress)</h3>
-        <p>Developing a heart disease prediction model using algorithms such as Random Forest, XGBoost, KNN, K-means, Logistic Regression, SVM, Naive Bayes, and Deep Learning combined with Random Forest.
-        <br></br>Parameters include age, gender, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, slope, ca, thal.
-        <br></br>Creating a user-friendly app for input and prediction display.</p>
-        <p>Currently working on a research paper to document our findings.</p>
+        <h3>Heart Disease Prediction using Machine Learning</h3>
+        <p>Developed a heart disease prediction model using Deep Learning combined with the Random Forest algorithm, achieving an accuracy of 98.53%.
+        <br></br>Designed a user-friendly app for seamless input of health metrics
+        and clear prediction displays.
+        <br></br>Integrated the machine learning model to provide heart disease risk assessments.</p>
+        <p><b>Tech Stack:</b>  App - using Android Studio - Java, Flask, Python.</p>
       </Project>
       <Project>
         <h3>An education ecosystem for Specially abled Students</h3>
-        <p>Developed a website featuring text-to-speech and speech-to-text conversion for answer submission to aid blind students.
-        <br></br>Included real time sign-language detection using video calls to aid deaf students.</p>
-        <p><b>Tech Stack:</b> HTML, CSS, JavaScript, PHP, WebRTC and Machine Learning(LSTM model).</p>
+        <p>Developed a website that specifically aids blind and deaf students.
+        <br></br>It features text-to-speech and speech-to-text conversion, useful for blind students for answer submissions.
+        <br></br>Includes sign-language videos to help deaf students learn effectively.</p>
+        <p><b>Tech Stack:</b> HTML, CSS, JavaScript, PHP, MySQL.</p>
       </Project>
       <Project>
         <h3>A frontend website for a government school</h3>
-        <p>Developed a comprehensive website with sections for About, Facilities, Achievements, Gallery, Admission, and Contact.</p>
-        <p><b>Tech Stack:</b> HTML, CSS, JavaScript, Bootstrap</p>
+        <p>Developed a comprehensive website for Govt Kannada Higher Primary School No. 26, Vishweshwaraya Nagar, Belagavi.
+        <br></br>Includes sections like About the school, Facilities, Achievements, Gallery, Admission, and Contact information.</p>
+        <p><b>Tech Stack:</b> HTML, CSS, JavaScript, Bootstrap.</p>
         <a href="https://govtkanhigherprimaryschool26.w3spaces.com">View Project</a>
       </Project>
     </Section>
