@@ -9,7 +9,7 @@ const About = () => {
       <Interests>
       <p>My interests include painting and watching Sci-Fi movies.</p> 
       </Interests>
-      <ResumeButton href="https://shruthi-gs.github.io/ShruthiPortfolioWebsite\ShruthiGS_Esko.pdf" download="ShruthiGS_Resume.pdf">My Resume</ResumeButton>
+      <ResumeButton href="https://shruthi-gs.github.io/ShruthiPortfolioWebsite\Shruthi GS.pdf" download="ShruthiGS_Resume.pdf">My Resume</ResumeButton>
     </Section>
   );
 };
