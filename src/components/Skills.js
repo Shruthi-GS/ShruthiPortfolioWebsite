@@ -12,6 +12,7 @@ const Skills = () => {
         <SkillItem>Machine Learning</SkillItem>
         <SkillItem>CRM: Salesforce</SkillItem>
         <SkillItem>Android Development Basics</SkillItem>
+        <SkillItem>Ethical Hacking</SkillItem>
       </SkillList>
     </Section>
   );
