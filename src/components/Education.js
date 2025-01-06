@@ -8,7 +8,7 @@ const Education = () => {
       <EducationItem>
         <h3>KLS Gogte Institute of Technology, Belagavi</h3>
         <p>BE, Computer Science & Engineering (2025)</p>
-        <p>CGPA: 9.3</p>
+        <p>CGPA: 9.39</p>
       </EducationItem>
       <EducationItem>
         <h3>KLE Independent PU College, Belagavi</h3>
