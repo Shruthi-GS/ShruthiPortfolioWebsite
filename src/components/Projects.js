@@ -6,6 +6,12 @@ const Projects = () => {
     <Section id="projects">
       <h2>Projects</h2>
       <Project>
+        <h3>Braille Detection & Audio output for Inclusive Communication</h3>
+        <p>Developed a Braille-to-Text Translation and Speech Conversion System to enhance accessibility for visually impaired individuals.
+        <br></br>Designed a website that enables users to upload Braille images and receive outputs in English text and audio formats.</p>
+        <p><b>Tech Stack:</b> Python, HTML, CSS, JavaScript, jQuery, Django.</p>
+      </Project>
+      <Project>
         <h3>Heart Disease Prediction using Machine Learning</h3>
         <p>Developed a heart disease prediction model using Deep Learning combined with the Random Forest algorithm, achieving an accuracy of 98.53%.
         <br></br>Designed a user-friendly app for seamless input of health metrics
