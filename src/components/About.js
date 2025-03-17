@@ -7,7 +7,7 @@ const About = () => {
       <h2>About Me</h2>
       <p>I am a final year Computer Science student with a strong foundation in programming, web development and keen interest in App Development. I excel at problem-solving and crafting innovative solutions using various technologies. I have excellent communication skills and a proven ability to work in team environments.</p>
       <Interests>
-      <p>My interests include painting, watching Anime and thriller movies/web series.</p> 
+      <p>My interests include painting, watching Anime and thriller movies or web series.</p> 
       </Interests>
       <ResumeButton href="https://shruthi-gs.github.io/ShruthiPortfolioWebsite/ShruthiGS.pdf" download="ShruthiGS_Resume.pdf">My Resume</ResumeButton>
     </Section>
