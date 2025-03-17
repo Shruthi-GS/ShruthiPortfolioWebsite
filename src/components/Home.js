@@ -5,7 +5,7 @@ const Home = () => {
     <Section id="home">
       <Intro>
         <h1>Hi, it's Shruthi G S</h1>
-        <p>An aspiring software developer, skilled in web development and machine learning with strong communication and leadership abilities.</p>
+        <p>An aspiring software developer, skilled in problem solving and web development with strong communication and leadership abilities.</p>
         <ProfileImage src="./IMG-20240118-WA0000.jpg" alt="Shruthi G S" />
       </Intro>
     </Section>
