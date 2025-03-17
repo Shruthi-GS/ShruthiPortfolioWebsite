@@ -9,9 +9,9 @@ const Internship = () => {
         <h3>Creintors Automation Solutions Pvt Ltd., Belagavi</h3>
         <h4>April 2024 - December 2024</h4>
         <p>Worked on “Using Data Analytics to Optimize Profit and Sales Metrics of a Dairy Union.”</p>
-        <p>Developed a website that analyzed and visualized the sales of dealers, across
-        different routes and of various dairy products.</p>
-
+        <p>Developed a website to analyze and visualize the sales of dealers,
+        across different routes and of various dairy products.</p>
+        <p><b>Tech Stack:</b> Python, Streamlit.</p>
       </ExperienceItem>
     </Section>
   );

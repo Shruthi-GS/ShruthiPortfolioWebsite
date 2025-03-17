@@ -6,13 +6,12 @@ const Skills = () => {
     <Section id="skills">
       <h2>Skills</h2>
       <SkillList>
-        <SkillItem>Languages: C, C++, Python, HTML, CSS, JavaScript</SkillItem>
+        <SkillItem>Languages: C++, Python, HTML, CSS, JavaScript</SkillItem>
         <SkillItem>Database: MySQL</SkillItem>
         <SkillItem>Data visualization tools: Power BI, Tableau</SkillItem>
-        <SkillItem>Machine Learning</SkillItem>
+        <SkillItem>Basics of Data Structures and Algorithms</SkillItem>
         <SkillItem>CRM: Salesforce</SkillItem>
-        <SkillItem>Android Development Basics</SkillItem>
-        <SkillItem>Ethical Hacking</SkillItem>
+        <SkillItem>Data Analytics</SkillItem>
       </SkillList>
     </Section>
   );
